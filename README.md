@@ -14,7 +14,7 @@ Use this guide to install all the components to run this, and any other UiPath p
 
 First, let me say that UiPath has a lot of direction to get you started on the **Automation Cloud** free trial.  They do not have a lot of entry points into the **Community UiPath Automation Cloud**.  I find it frustrating that there is not a more clear root that points to both the Automation Cloud and community versions.  This guide will go through the free community version.
 
-> Warning
+> [!WARNING]  
 > The Uipath Automation Cloud is used to refer to the scope of all UiPath's cloud offerings.  There are a lot of tools and they are amazing.  They are also expensive.  Feel free to try out the trial; just be aware that some of the tools require paid licenses.
 
 In this case, I did a search for "UiPath Setup" and this gets to the Automation Cloud page which is great.  You can also use this link [https://www.uipath.com/product/automation-cloud](https://www.uipath.com/product/automation-cloud)
