@@ -104,10 +104,10 @@ Click the button to download Studio.  This is UiPath's integrated development en
 
 Once installed you will be able to run the robots.  You can open a project in two ways:
 
-1. Use the file menu to select `Open` and use the file explorer to navigate to a project on your system.
-2. Open a project folder and double click on a .xaml file.  For example the Main.xaml.
+1. In UiPath Studio, use the file menu to select `Open` and use the file explorer to navigate to a project on your system.
+2. Open a project folder in your file system and double click on a .xaml file.  For example the Main.xaml.
 
-Then you can open the `Main.xaml` workflow and use the play button in the ribbon to run the robot locally.  There are other ways to run robots but they are out of the scope of this guide.
+The `Main.xaml` workflow is the starting point for the robots and started with the play button in the ribbon.  This runs the robot locally.  There are other ways to run robots but they are out of the scope of this guide.
 
 ![UiPath-SetupGuide-09](Data/Images/UiPath-SetupGuide-10.jpg)
 
